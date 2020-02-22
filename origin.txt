@@ -1,0 +1,152 @@
+Uri: https://www.luxury-car-service.kz/
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\index.htm
+Content Type: text/html
+
+Uri: https://www.luxury-car-service.kz/img/logo.png
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\logo.png
+Content Type: image/png
+
+Uri: https://www.luxury-car-service.kz/css/libs.min.css@1.css
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\css\libs.min.css@1.css
+Content Type: text/css
+
+Uri: https://www.luxury-car-service.kz/css/style.css@1.css
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\css\style.css@1.css
+Content Type: text/css
+
+Uri: https://www.luxury-car-service.kz/index.html
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\index.html
+Content Type: text/html
+
+Uri: https://www.luxury-car-service.kz/img/auto.png
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\auto.png
+Content Type: image/png
+
+Uri: https://www.luxury-car-service.kz/img/service/1.jpg
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\service\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.luxury-car-service.kz/img/service/2.jpg
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\service\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.luxury-car-service.kz/img/service/3.jpg
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\service\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.luxury-car-service.kz/img/service/dvigatel1.jpg
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\service\dvigatel1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.luxury-car-service.kz/img/service/dvigatel2.jpg
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\service\dvigatel2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.luxury-car-service.kz/img/service/dvigatel3.jpg
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\service\dvigatel3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.luxury-car-service.kz/img/order-1.png
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\order-1.png
+Content Type: image/png
+
+Uri: https://www.luxury-car-service.kz/img/order-2.png
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\order-2.png
+Content Type: image/png
+
+Uri: https://www.luxury-car-service.kz/img/order-3.png
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\order-3.png
+Content Type: image/png
+
+Uri: https://www.luxury-car-service.kz/img/bg-form.png
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\bg-form.png
+Content Type: image/png
+
+Uri: https://www.luxury-car-service.kz/js/libs.min.js@1
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\js\libs.min.js
+Content Type: application/javascript
+
+Uri: https://www.luxury-car-service.kz/js/custom.js@1
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\js\custom.js
+Content Type: application/javascript
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProBlack.eot
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProBlack.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProBlack.woff
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProBlack.woff
+Content Type: font/woff
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProBlack.otf
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProBlack.odft
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProBlack.ttf
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProBlack.bin
+Content Type: application/octet-stream
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProBlack.svg
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProBlack.svg
+Content Type: image/svg+xml
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProMedium.eot
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProMedium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProMedium.woff
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProMedium.woff
+Content Type: font/woff
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProMedium.otf
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProMedium.odft
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProMedium.ttf
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProMedium.bin
+Content Type: application/octet-stream
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProMedium.svg
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProMedium.svg
+Content Type: image/svg+xml
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProLight.eot
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProLight.woff
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProLight.woff
+Content Type: font/woff
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProLight.otf
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProLight.odft
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProLight.ttf
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProLight.bin
+Content Type: application/octet-stream
+
+Uri: https://www.luxury-car-service.kz/fonts/GothamProLight.svg
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\GothamProLight.svg
+Content Type: image/svg+xml
+
+Uri: https://www.luxury-car-service.kz/fonts/a_concepto-bold.ttf
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\fonts\a_concepto-bold.bin
+Content Type: application/octet-stream
+
+Uri: https://www.luxury-car-service.kz/img/icons.png
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\icons.png
+Content Type: image/png
+
+Uri: https://www.luxury-car-service.kz/img/service.png
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\service.png
+Content Type: image/png
+
+Uri: https://www.luxury-car-service.kz/img/steps.png
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\steps.png
+Content Type: image/png
+
+Uri: https://www.luxury-car-service.kz/img/keyses-icon.png
+File Name: C:\Users\Erbolat\Desktop\www.luxury-car-service.kz\img\keyses-icon.png
+Content Type: image/png
+
